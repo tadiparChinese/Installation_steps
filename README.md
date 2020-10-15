@@ -1,5 +1,12 @@
 # Installation_steps
 
+1. Create Virtual Environment 
+ - pip install pipenv
+ - create a virtual environment : virtualenv .
+ - Activate the Virtual Environment 
+ windows:  .\Scripts\activate
+==========================================================================
+
 pip install virtualenvwrapper-win
 mkvirtualenv venv
 
