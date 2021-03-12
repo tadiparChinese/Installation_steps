@@ -38,23 +38,23 @@ import *(mhanje all hoto)
 
 after creating model
 > python manage.py makemigrations 
->>python manage.py migrate
->> python manage.py createsuperuser
+> python manage.py migrate
+> python manage.py createsuperuser
 
 collecting all static>
 > python manage.py collectstatic
 
->>python manage.py runserver
+> python manage.py runserver
 
 to check actual sqlcommands
->>python manage.py sqlmigrate <appName> <migrationNumber>
-eg. >>python manage.py sqlmigrate blog 0001
+> python manage.py sqlmigrate <appName> <migrationNumber>
+eg. >python manage.py sqlmigrate blog 0001
 
 use python decouple to hiding sensitive information, save the information in .env file
 
 
 
->node react tools
+> node react tools
 redux thunk(middleware)
 axiosm, store, action
 use fragments insted of div
@@ -73,16 +73,16 @@ isomorphic react
 require.js
  MobX
 The idea behind Redux
->You have mainly three components store, reducer, and actions
+> You have mainly three components store, reducer, and actions
 
 
-cdpython hindi 92==89
+cd python hindi 92==89
 
 
 
 for testing django app
- ==>selenium
-==>LiveServerTestCase
+==> selenium
+==> LiveServerTestCase
 ==> Coverage
 
 to activate virtualenv 
