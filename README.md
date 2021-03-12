@@ -1,23 +1,23 @@
 # Installation_steps
 
 1. Create Virtual Environment 
- - pip install pipenv
+ - > pip install pip env
  - create a virtual environment : virtualenv .
  - Activate the Virtual Environment 
  windows:  .\Scripts\activate
 ==========================================================================
 
-pip install virtualenvwrapper-win
-mkvirtualenv venv
+> pip install virtualenvwrapper-win
+> mkvirtualenv venv
 
-workon venv
+> workon venv
  or ls
 -> venv  src static
 source venv/bin/activate
 
 
 # Create a virtual environment to isolate our package dependencies locally
-python3 -m venv env
+> python3 -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 pip install django 
