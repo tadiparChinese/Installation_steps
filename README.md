@@ -77,6 +77,10 @@ The idea behind Redux
 
 
 cd python hindi 92==89
+ 
+ 
+ for postgres and pgadmin steps in ubantu
+ https://www.howtoforge.com/how-to-install-postgresql-and-pgadmin4-on-ubuntu-1804-lts/
 
 
 
